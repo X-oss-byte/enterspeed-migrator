@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <ImplicitUsings>disable</ImplicitUsings>
@@ -9,7 +9,7 @@
     <ItemGroup>
         <PackageReference Include="System.Text.Json" Version="6.0.4" />
         <PackageReference Include="Umbraco.Cms.Core" Version="10.0.1" />
-        <PackageReference Include="Umbraco.Cms.Infrastructure" Version="10.0.0-rc4" />
+        <PackageReference Include="Umbraco.Cms.Infrastructure" Version="10.6.1" />
     </ItemGroup>
 
     <ItemGroup>
